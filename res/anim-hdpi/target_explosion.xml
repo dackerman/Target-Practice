@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.cmio/apk/res/android"
+android:oneshot="true">
+	<item android:drawable="@drawable/target_hit1" android:duration="100" />
+	<item android:drawable="@drawable/target_hit2" android:duration="100" />
+	<item android:drawable="@drawable/target_hit3" android:duration="100" />
+</animation-list>
